@@ -28,7 +28,7 @@ function handleLetterClicked(event) {
   event.preventDefault();
   letterEmoji.style.display = "none";
   hiddenLetter.innerHTML = "you're hanuting my daydreams";
-  SignLetter.innerHTML = "-brain";
+  SignLetter.innerHTML = "-pinky";
 }
 
 function handleHiddenLetterClicked(event) {
