@@ -27,8 +27,8 @@ hiddenLetter.addEventListener("touchstart", (event) =>
 function handleLetterClicked(event) {
   event.preventDefault();
   letterEmoji.style.display = "none";
-  hiddenLetter.innerHTML = "you're hanuting my daydreams";
-  SignLetter.innerHTML = "-pinky";
+  hiddenLetter.innerHTML = "I miss yall";
+ 
 }
 
 function handleHiddenLetterClicked(event) {
