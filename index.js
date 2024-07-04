@@ -27,7 +27,7 @@ hiddenLetter.addEventListener("touchstart", (event) =>
 function handleLetterClicked(event) {
   event.preventDefault();
   letterEmoji.style.display = "none";
-  hiddenLetter.innerHTML = "I miss yall";
+  hiddenLetter.innerHTML = "miss yall!";
  
 }
 
